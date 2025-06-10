@@ -15,6 +15,6 @@
 # print(numbers)
 
 for i in range(5):
-    for j in range(0 , , 1):
+    for j in range(0 , i, 1):
         print("8" ,end=" ")
     print()
