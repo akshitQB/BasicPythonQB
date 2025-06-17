@@ -8,7 +8,7 @@
 # Polymorphism  : Demonstarte polymorephism by defining a method fuel_type in both Car and ElectricCar classes,but with differrent behaviours.
 # Class variable : Add a class variable to Car that track of the number of cars craeted 
 # Static Method  : Add a static method to the Car that returns a general decription of a car.
-# isinstance  : Demonstarate the use of isinstance() to check if my_teksa an instance of Car and ElectricCar.
+# isinstance  : Demonstarate the use of isinstance() to check if my_tesla an instance of Car and ElectricCar.
 
 
 class Car:
