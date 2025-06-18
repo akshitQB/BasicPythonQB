@@ -25,15 +25,10 @@ class Desk2(Desk):
     
     def sunroof(self):
         print("this is not available right now!....")
-
-
-
-
+              
 
 s1=Desk("jay","2")
-
 s2=Desk2("rudra","15")
 print(s2.sunroof())
 print(s1.get_age())
-
 print(s1.wow())
