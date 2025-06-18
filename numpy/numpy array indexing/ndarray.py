@@ -10,4 +10,4 @@ print("Data type:",arr.dtype)
 print("Item size:",arr1.itemsize)
 
 arr=np.linspace(0,1 ,  num=25).reshape(5,5)
-print(arr)
+print(arr)                                                                                                                                                                                                                                           
