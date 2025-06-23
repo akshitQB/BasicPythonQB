@@ -42,8 +42,3 @@ array1 = np.array([1, 2, 3])
 array2 = np.array([4, 5, 6])
 concatenated_array = np.concatenate((array1, array2))
 
-# Concatenating 2D arrays along a specific axis (e.g., appending rows)
-matrix1 = np.array([[1, 2], [3, 4]])
-matrix2 = np.array([[5, 6], [7, 8]])
-concatenated_rows = np.concatenate((matrix1, matrix2), axis=0) # Appends rows
-print(concatenated_rows)

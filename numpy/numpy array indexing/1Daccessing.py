@@ -66,6 +66,8 @@ arr6=np.array([1,2,3])
 print(arr6[:,np.newaxis])
 
 #Modifying Array Elements 
-arr7 = np.array([1,2,3,4])
-arr[0:2] = 99
+arr7 = np.array([[1,2,3,4],[4,5,6,7],
+                 [11,22,33,44]],[
+                 [99,77,66,55],
+                 [55,44,66,77]])
 print(arr)
